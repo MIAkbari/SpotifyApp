@@ -3,9 +3,9 @@
 ## Architecture
  - Clean Architecture + MVVM
  - Enterprise/FAANG
- - 
+
 ## Project Structure
-#**
+
 App/
 ├── Modules/
 │   ├── Authentication 
@@ -24,9 +24,9 @@ Resources/
     ├── Fonts
     ├── Localization
     └── Assets
-**
+
 # Tech.Tools
-## ** State Management **
+## **State Management**
 - SwiftUI + Combine
 - Repository Pattern
 - Redux/SwiftUI’s EnvironmentObject:
@@ -74,13 +74,13 @@ Resources/
 - SwiftLint
 - Documentation
 
-## ** CI/CD / Desops **
+## **CI/CD / Desops**
 
 - Fastlane: Build, Test, Deploy
 - GitHub Actions/GitLab CI: Run Pipelines
 - Firebase Crashlytics: Crash traking
 
-## ** Spotify-Like **
+## **Spotify-Like**
 ### - Background Audio
  - Enable Audio, AirPlay, and Picture in Picture in Capabilities
  - AVAudioSession for look mangment
