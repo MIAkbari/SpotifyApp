@@ -5,6 +5,7 @@
  - Enterprise/FAANG
  - 
 ## Project Structure
+#**
 App/
 ├── Modules/
 │   ├── Authentication 
@@ -23,6 +24,7 @@ Resources/
     ├── Fonts
     ├── Localization
     └── Assets
+**
 # Tech.Tools
 ## ** State Management **
 - SwiftUI + Combine
